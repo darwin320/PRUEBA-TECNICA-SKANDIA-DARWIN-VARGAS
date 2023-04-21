@@ -1,32 +1,22 @@
-<<<<<<< HEAD
+
 # AngularPrueba
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
-## Development server
+#EJECUCION DE LA PRUEBA
+para la ejecucion de la prueba una vez descargar el repositorio se debe ejecutar el comando:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- npm install
 
-## Code scaffolding
+que instalara todas las dependencias necesarias para la ejecución del programa, luego se debera ejecutar la aplicacion en angular con el comando:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-ng serve --o
 
-## Build
+Una vez se ejecute, desde el navegador de su preferencia puede ir a la direccion: 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-http://localhost:4200/
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
+Donde se podra ver el resultado obtenido de la prueba tecnica.
 # PRUEBA-TECNICA-SKANDIA-DARWIN-VARGAS
-Prueba tecnica SKANDIA, DARWIN LEONARDO VARGAS APARICIO, correo: darwinleonardovargas@gmail.com
+Prueba tecnica SKANDIA, DARWIN LEONARDO VARGAS APARICIO, correo: darwinleonardovargas@gmail.com, Celular/Whatsapp: 3158706330
 
