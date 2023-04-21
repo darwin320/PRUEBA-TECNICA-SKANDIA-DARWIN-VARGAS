@@ -1,0 +1,47 @@
+
+
+a {
+  text-decoration: none;/* se encarga de estilizar las rutas que poseen un link asociado a ellas*/
+}
+
+.custom-sidebar {
+  height: 100%;
+  font: normal normal medium 16px/21px Montserrat;
+  background-color: #E2E2E2;
+  }
+
+
+
+  .nav-item-home {
+    background-color: #00C83C;
+    font: normal normal medium 16px/21px Montserrat;
+    color: #3F3F3F;
+  }
+
+
+  .nav-pills .nav-item-home {
+    margin-bottom: 10px; /* Ajusta el espacio entre elementos */
+    padding: 10px; /* Ajusta el espacio alrededor del texto */
+  }
+  .nav-pills .nav-item {
+    margin-bottom: 10px; /* Ajusta el espacio entre elementos */
+    padding: 10px; /* Ajusta el espacio alrededor del texto */
+    color: #3F3F3F;
+
+  }
+  
+  
+
+  .nav-item a:hover {
+    cursor: pointer;
+  }
+
+  .bi bi-house-fill me-2 {
+    background-color: #3F3F3F;
+  }
+
+  
+
+  
+
+    

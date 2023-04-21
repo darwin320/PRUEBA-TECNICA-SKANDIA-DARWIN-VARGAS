@@ -1,0 +1,123 @@
+
+.navbar {
+  margin-top: 20px;
+}
+
+
+.navbar-toggler-icon {
+  background-image: url('../../../assets/img/menu_lines.png');
+  border: none;
+  
+}
+
+.spanLine span {
+  border-left: 2.5px solid black; /* Grosor y estilo de la línea */
+
+  margin-left: 10px;
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.navbar-text-two {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-text-two img {
+  margin-right: 0px;
+}
+
+.navbar-text-two span {
+  margin-left: 10px;
+  color: #00C83C;
+  font: normal normal bold 14px/19px Verdana;
+  text-decoration: underline;
+}
+
+
+
+.navbar-text-one span {
+  font: normal normal medium 18px/23px Montserrat;
+  letter-spacing: 0px;
+  color: #3F3F3F;
+  opacity: 1;
+  size: 18px;
+}
+
+
+
+
+.custom-navbar {
+    background-color: #ffffff; 
+    
+  }
+  
+  .custom-sidebar {
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 1000;
+    font-size: 24px;
+    background-color: #940c0c;
+    display: inline-block;
+    width: 20px;
+    height: 2px;
+    border-radius: 2px;
+    border: none;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    border-color: #00C83C;
+    margin-right: 10px; /* Cambia el valor según sea necesario */
+  }
+
+
+  .navbar-text-two > div:last-child {
+    margin-left: 20px;
+  }
+
+  @media (max-width: 767px) {
+    .navbar-text-three {
+        margin-left: auto;
+        margin-right: 10px;
+    }
+}
+
+.navbar-text-two img#profile-img3 {
+  margin-right: 150px;
+}
+
+.image-container {
+  position: relative;
+}
+
+.text-container {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  position: absolute;
+  top: 0;
+  left: 25%;
+  width: 80px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.hover-text {
+  color: #00C83C;
+  font: normal normal bold 14px/19px Verdana;
+  text-decoration: underline;
+}
+
+.image-container:hover .text-container {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+  
+  
+  
