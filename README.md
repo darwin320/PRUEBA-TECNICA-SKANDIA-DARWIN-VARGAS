@@ -8,13 +8,14 @@ para la ejecucion de la prueba una vez descargar el repositorio se debe ejecutar
 
 - npm install
 
-que instalara todas las dependencias necesarias para la ejecución del programa, luego se debera ejecutar la aplicacion en angular con el comando:
+que instalara todas las dependencias necesarias para la ejecución del programa, luego se debera ejecutar la aplicacion en angular desde el repositorio
+donde se ecnuentra el proyecto con el comando:
 
--ng serve --o
+- ng serve --o
 
 Una vez se ejecute, desde el navegador de su preferencia puede ir a la direccion: 
 
--http://localhost:4200/
+- http://localhost:4200/
 
 Donde se podra ver el resultado obtenido de la prueba tecnica.
 # PRUEBA-TECNICA-SKANDIA-DARWIN-VARGAS
